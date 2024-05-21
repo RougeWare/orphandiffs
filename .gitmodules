@@ -1,0 +1,3 @@
+[submodule "lib/RougeWare/SwiftLibgit2"]
+	path = lib/RougeWare/SwiftLibgit2
+	url = git@github.com:RougeWare/SwiftLibgit2.git
